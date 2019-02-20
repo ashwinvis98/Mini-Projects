@@ -1,1 +1,1 @@
-# Mini-Projects
+Few projects from Kaggle datasets
